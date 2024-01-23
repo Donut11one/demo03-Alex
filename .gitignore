@@ -1,13 +1,4 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
+.DS_Store
 *.log
-*.log.*
-*.sig
-
-pkg/
-src/
+node_modules/
+.vscode/
